@@ -1,0 +1,141 @@
+[2023-11-09 15:52:28][notice]Start restoring themes.
+[2023-11-09 15:52:28][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_all.zip
+[2023-11-09 15:52:29][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_all.zip succeeded.
+[2023-11-09 15:52:29][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_themes.zip index:0
+[2023-11-09 15:52:29][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_themes.zip index:0 finished.
+[2023-11-09 15:52:29][notice]End restore themes.
+[2023-11-09 15:52:31][notice]Start restoring plugin.
+[2023-11-09 15:52:31][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_all.zip
+[2023-11-09 15:52:32][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_all.zip succeeded.
+[2023-11-09 15:52:32][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_plugin.zip index:0
+[2023-11-09 15:52:32][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_plugin.zip index:0 finished.
+[2023-11-09 15:52:32][notice]End restore plugin.
+[2023-11-09 15:52:34][notice]Start restoring plugin.
+[2023-11-09 15:52:34][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_plugin.zip index:1000
+[2023-11-09 15:52:35][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_plugin.zip index:1000 finished.
+[2023-11-09 15:52:35][notice]End restore plugin.
+[2023-11-09 15:52:37][notice]Start restoring plugin.
+[2023-11-09 15:52:37][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_plugin.zip index:2000
+[2023-11-09 15:52:37][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_plugin.zip index:2000 finished.
+[2023-11-09 15:52:37][notice]End restore plugin.
+[2023-11-09 15:52:39][notice]Start restoring wp-content.
+[2023-11-09 15:52:39][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_all.zip
+[2023-11-09 15:52:39][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_all.zip succeeded.
+[2023-11-09 15:52:39][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_content.zip index:0
+[2023-11-09 15:52:40][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_content.zip index:0 finished.
+[2023-11-09 15:52:40][notice]End restore wp-content.
+[2023-11-09 15:52:41][notice]Start restoring upload.
+[2023-11-09 15:52:41][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_all.zip
+[2023-11-09 15:52:41][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_all.zip succeeded.
+[2023-11-09 15:52:41][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_uploads.zip index:0
+[2023-11-09 15:52:41][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_uploads.zip index:0 finished.
+[2023-11-09 15:52:41][notice]End restore upload.
+[2023-11-09 15:52:43][notice]Start restoring wp-core.
+[2023-11-09 15:52:43][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_all.zip
+[2023-11-09 15:52:44][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_all.zip succeeded.
+[2023-11-09 15:52:44][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_core.zip
+[2023-11-09 15:52:45][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_core.zip succeeded.
+[2023-11-09 15:52:45][notice]End restore wp-core.
+[2023-11-09 15:52:47][notice]Start restoring databases.
+[2023-11-09 15:52:47][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_all.zip
+[2023-11-09 15:52:47][notice]Extracting file:localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_all.zip finished.
+[2023-11-09 15:52:47][notice]Extracting file:C:\xampp\htdocs\danirahman/wp-content\wpvividbackups\localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_db.zip
+[2023-11-09 15:52:47][notice]Extracting file:C:\xampp\htdocs\danirahman/wp-content\wpvividbackups\localhost_danirahman_wpvivid-654cffcb7ee0e_2023-11-09-15-50_backup_db.zip finished.
+[2023-11-09 15:52:47][notice]End restore databases.
+[2023-11-09 15:52:49][notice]Start restoring databases.
+[2023-11-09 15:52:49][notice]Start restoring sql file offset:0
+[2023-11-09 15:52:49][notice]The test to drop table succeeds.
+[2023-11-09 15:52:49][notice]Drop table if exist tmp8f7723_wpforms_tasks_meta
+[2023-11-09 15:52:49][notice]Creating table tmp8f7723_wpforms_tasks_meta
+[2023-11-09 15:52:49][notice]Drop table if exist tmp8f7723_actionscheduler_claims
+[2023-11-09 15:52:49][notice]Creating table tmp8f7723_actionscheduler_claims
+[2023-11-09 15:52:49][notice]Drop table if exist tmp8f7723_actionscheduler_groups
+[2023-11-09 15:52:49][notice]Creating table tmp8f7723_actionscheduler_groups
+[2023-11-09 15:52:50][notice]Drop table if exist tmp8f7723_e_events
+[2023-11-09 15:52:50][notice]Creating table tmp8f7723_e_events
+[2023-11-09 15:52:50][notice]Drop table if exist tmp8f7723_links
+[2023-11-09 15:52:50][notice]Creating table tmp8f7723_links
+[2023-11-09 15:52:50][notice]Drop table if exist tmp8f7723_term_relationships
+[2023-11-09 15:52:50][notice]Creating table tmp8f7723_term_relationships
+[2023-11-09 15:52:50][notice]Drop table if exist tmp8f7723_actionscheduler_logs
+[2023-11-09 15:52:50][notice]Creating table tmp8f7723_actionscheduler_logs
+[2023-11-09 15:52:50][notice]Drop table if exist tmp8f7723_commentmeta
+[2023-11-09 15:52:50][notice]Creating table tmp8f7723_commentmeta
+[2023-11-09 15:52:50][notice]Drop table if exist tmp8f7723_term_taxonomy
+[2023-11-09 15:52:50][notice]Creating table tmp8f7723_term_taxonomy
+[2023-11-09 15:52:50][notice]Drop table if exist tmp8f7723_termmeta
+[2023-11-09 15:52:50][notice]Creating table tmp8f7723_termmeta
+[2023-11-09 15:52:50][notice]Drop table if exist tmp8f7723_terms
+[2023-11-09 15:52:50][notice]Creating table tmp8f7723_terms
+[2023-11-09 15:52:50][notice]Drop table if exist tmp8f7723_usermeta
+[2023-11-09 15:52:50][notice]Creating table tmp8f7723_usermeta
+[2023-11-09 15:52:50][notice]Drop table if exist tmp8f7723_users
+[2023-11-09 15:52:50][notice]Creating table tmp8f7723_users
+[2023-11-09 15:52:50][notice]Drop table if exist tmp8f7723_wpforms_payment_meta
+[2023-11-09 15:52:50][notice]Creating table tmp8f7723_wpforms_payment_meta
+[2023-11-09 15:52:50][notice]Drop table if exist tmp8f7723_comments
+[2023-11-09 15:52:50][notice]Creating table tmp8f7723_comments
+[2023-11-09 15:52:50][notice]Drop table if exist tmp8f7723_actionscheduler_actions
+[2023-11-09 15:52:50][notice]Creating table tmp8f7723_actionscheduler_actions
+[2023-11-09 15:52:50][notice]Drop table if exist tmp8f7723_posts
+[2023-11-09 15:52:50][notice]Creating table tmp8f7723_posts
+[2023-11-09 15:52:50][notice]Drop table if exist tmp8f7723_wpforms_payments
+[2023-11-09 15:52:50][notice]Creating table tmp8f7723_wpforms_payments
+[2023-11-09 15:52:50][notice]Drop table if exist tmp8f7723_postmeta
+[2023-11-09 15:52:50][notice]Creating table tmp8f7723_postmeta
+[2023-11-09 15:52:51][notice]Drop table if exist tmp8f7723_options
+[2023-11-09 15:52:51][notice]Creating table tmp8f7723_options
+[2023-11-09 15:52:53][notice]Reading sql file completed offset:5345039
+[2023-11-09 15:52:53][notice]End restore databases.
+[2023-11-09 15:52:55][notice]Start restoring databases.
+[2023-11-09 15:52:55][notice]Start restoring sql file offset:5345039
+[2023-11-09 15:52:55][notice]The test to drop table succeeds.
+[2023-11-09 15:52:55][notice]UPDATE tmp8f7723_options SET option_value="http://localhost/danirahman" WHERE option_name="siteurl";
+[2023-11-09 15:52:55][notice]update query len:100
+[2023-11-09 15:52:55][notice]UPDATE tmp8f7723_options SET option_value="http://localhost/danirahman" WHERE option_name="home";
+[2023-11-09 15:52:55][notice]update query len:97
+[2023-11-09 15:52:55][notice]Restore db success
+[2023-11-09 15:52:55][notice]End restore databases.
+[2023-11-09 15:52:57][notice]Restore db success,now start rename temp table name prefix to new site prefix.
+[2023-11-09 15:52:57][notice]DROP TABLE IF EXISTS wp_actionscheduler_actions
+[2023-11-09 15:52:58][notice]DROP TABLE IF EXISTS wp_actionscheduler_claims
+[2023-11-09 15:52:58][notice]DROP TABLE IF EXISTS wp_actionscheduler_groups
+[2023-11-09 15:52:58][notice]DROP TABLE IF EXISTS wp_actionscheduler_logs
+[2023-11-09 15:52:58][notice]DROP TABLE IF EXISTS wp_commentmeta
+[2023-11-09 15:52:58][notice]DROP TABLE IF EXISTS wp_comments
+[2023-11-09 15:52:58][notice]DROP TABLE IF EXISTS wp_e_events
+[2023-11-09 15:52:58][notice]DROP TABLE IF EXISTS wp_links
+[2023-11-09 15:52:58][notice]DROP TABLE IF EXISTS wp_options
+[2023-11-09 15:52:58][notice]DROP TABLE IF EXISTS wp_postmeta
+[2023-11-09 15:52:58][notice]DROP TABLE IF EXISTS wp_posts
+[2023-11-09 15:52:58][notice]DROP TABLE IF EXISTS wp_term_relationships
+[2023-11-09 15:52:58][notice]DROP TABLE IF EXISTS wp_term_taxonomy
+[2023-11-09 15:52:58][notice]DROP TABLE IF EXISTS wp_termmeta
+[2023-11-09 15:52:58][notice]DROP TABLE IF EXISTS wp_terms
+[2023-11-09 15:52:58][notice]DROP TABLE IF EXISTS wp_usermeta
+[2023-11-09 15:52:58][notice]DROP TABLE IF EXISTS wp_users
+[2023-11-09 15:52:58][notice]DROP TABLE IF EXISTS wp_wpforms_payment_meta
+[2023-11-09 15:52:58][notice]DROP TABLE IF EXISTS wp_wpforms_payments
+[2023-11-09 15:52:58][notice]DROP TABLE IF EXISTS wp_wpforms_tasks_meta
+[2023-11-09 15:52:58][notice]RENAME TABLE tmp8f7723_actionscheduler_actions TO wp_actionscheduler_actions
+[2023-11-09 15:52:58][notice]RENAME TABLE tmp8f7723_actionscheduler_claims TO wp_actionscheduler_claims
+[2023-11-09 15:52:58][notice]RENAME TABLE tmp8f7723_actionscheduler_groups TO wp_actionscheduler_groups
+[2023-11-09 15:52:58][notice]RENAME TABLE tmp8f7723_actionscheduler_logs TO wp_actionscheduler_logs
+[2023-11-09 15:52:58][notice]RENAME TABLE tmp8f7723_commentmeta TO wp_commentmeta
+[2023-11-09 15:52:58][notice]RENAME TABLE tmp8f7723_comments TO wp_comments
+[2023-11-09 15:52:58][notice]RENAME TABLE tmp8f7723_e_events TO wp_e_events
+[2023-11-09 15:52:58][notice]RENAME TABLE tmp8f7723_links TO wp_links
+[2023-11-09 15:52:58][notice]RENAME TABLE tmp8f7723_options TO wp_options
+[2023-11-09 15:52:58][notice]RENAME TABLE tmp8f7723_postmeta TO wp_postmeta
+[2023-11-09 15:52:58][notice]RENAME TABLE tmp8f7723_posts TO wp_posts
+[2023-11-09 15:52:58][notice]RENAME TABLE tmp8f7723_term_relationships TO wp_term_relationships
+[2023-11-09 15:52:58][notice]RENAME TABLE tmp8f7723_term_taxonomy TO wp_term_taxonomy
+[2023-11-09 15:52:58][notice]RENAME TABLE tmp8f7723_termmeta TO wp_termmeta
+[2023-11-09 15:52:58][notice]RENAME TABLE tmp8f7723_terms TO wp_terms
+[2023-11-09 15:52:58][notice]RENAME TABLE tmp8f7723_usermeta TO wp_usermeta
+[2023-11-09 15:52:58][notice]RENAME TABLE tmp8f7723_users TO wp_users
+[2023-11-09 15:52:58][notice]RENAME TABLE tmp8f7723_wpforms_payment_meta TO wp_wpforms_payment_meta
+[2023-11-09 15:52:58][notice]RENAME TABLE tmp8f7723_wpforms_payments TO wp_wpforms_payments
+[2023-11-09 15:52:58][notice]RENAME TABLE tmp8f7723_wpforms_tasks_meta TO wp_wpforms_tasks_meta
+[2023-11-09 15:52:58][notice]Replacing table prefix succeeded.
+[2023-11-09 15:52:58][notice]Deleting temp files.
